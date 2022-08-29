@@ -1,1 +1,1 @@
-Console.WriteLine("tu i pedis");
+Console.WriteLine("suka kran");
